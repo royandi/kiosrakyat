@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="200mm" height="200mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 20000 20000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+    <clipPath id="id0">
+     <path d="M-3002.13 -3704.09l25874.21 0 0 25775.39 -25874.21 0 0 -25775.39z"/>
+    </clipPath>
+     <clipPath id="id1">
+      <path d="M11128.59 2736.54l8769.41 0 0 16245.9 -8769.41 0 0 -16245.9z"/>
+     </clipPath>
+    <clipPath id="id2">
+     <rect x="12140.44" y="3748.38" width="6745.71" height="14222.21"/>
+    </clipPath>
+     <clipPath id="id3">
+      <path d="M-28.05 2474.99l10400 0 0 16622.23 -10400 0 0 -16622.23z"/>
+     </clipPath>
+    <clipPath id="id4">
+     <rect x="1171.94" y="3674.99" width="8000.01" height="14222.23"/>
+    </clipPath>
+     <clipPath id="id5">
+      <path d="M5361.22 -730.01l11278.72 0 0 18026.68 -11278.72 0 0 -18026.68z"/>
+     </clipPath>
+    <clipPath id="id6">
+     <rect x="6662.61" y="571.38" width="8675.94" height="15423.9"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2857926391392">
+   <g style="clip-path:url(#id0)">
+    <image x="-3002.13" y="-3704.09" width="25874.21" height="25775.39" xlink:href="AppSS_Images\AppSS_ImgID1.png"/>
+   </g>
+  </g>
+  <g id="_2857926388096">
+   <g>
+    <g style="clip-path:url(#id1)">
+     <image x="11128.59" y="2736.54" width="8769.41" height="16245.9" xlink:href="AppSS_Images\AppSS_ImgID2.png"/>
+    </g>
+   </g>
+   <g style="clip-path:url(#id2)">
+    <image x="12140.44" y="3748.39" width="6745.7" height="14222.2" xlink:href="AppSS_Images\AppSS_ImgID3.png"/>
+   </g>
+   <g>
+    <g style="clip-path:url(#id3)">
+     <image x="-28.05" y="2474.99" width="10400" height="16622.23" xlink:href="AppSS_Images\AppSS_ImgID4.png"/>
+    </g>
+   </g>
+   <g style="clip-path:url(#id4)">
+    <image x="1171.94" y="3674.99" width="8000" height="14222.23" xlink:href="AppSS_Images\AppSS_ImgID5.png"/>
+   </g>
+   <g>
+    <g style="clip-path:url(#id5)">
+     <image x="5361.22" y="-730.01" width="11278.72" height="18026.68" xlink:href="AppSS_Images\AppSS_ImgID6.png"/>
+    </g>
+   </g>
+   <g style="clip-path:url(#id6)">
+    <image x="6662.61" y="571.39" width="8675.94" height="15423.89" xlink:href="AppSS_Images\AppSS_ImgID7.png"/>
+   </g>
+  </g>
+ </g>
+</svg>
